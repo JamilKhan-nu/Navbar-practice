@@ -12,6 +12,8 @@ const Airbnb = () => {
     <Container
       sx={{
         mt: 10,
+        pb: 5,
+        borderBottom: 1,
         display: "flex",
         flexDirection: "row",
         justifyContent: "space-between",
